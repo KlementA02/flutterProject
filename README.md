@@ -1,2 +1,3 @@
-# flutterProject
-A collection of my projects in flutter
+# notetaker
+
+A new Flutter project.
